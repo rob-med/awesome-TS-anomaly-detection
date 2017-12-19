@@ -3,11 +3,15 @@
 
 ## Software
 
-- Numenta's [Nupic](https://github.com/numenta/nupic): real-time unsupervised anomaly detection on streaming data, based on HTMs
-- Etsy's [Skyline](https://github.com/etsy/skyline)
-- Twitter's [AnomalyDetection](https://github.com/twitter/AnomalyDetection)
-- Lytics [Anomalyzer](https://github.com/lytics/anomalyzer)
-- Netflix's [Surus](https://github.com/netflix/surus): Robust PCA-based anomaly detection
+
+| Name          | Language            
+| ------------- |:-------------:      
+| Numenta's [Nupic](https://github.com/numenta/nupic)                      | C++       
+| Etsy's [Skyline](https://github.com/etsy/skyline)                        | Python    
+| Twitter's [AnomalyDetection](https://github.com/twitter/AnomalyDetection)| R         
+| Netflix's [Surus](https://github.com/netflix/surus)                      | Java      
+| Lytics [Anomalyzer](https://github.com/lytics/anomalyzer)                | Go        
+
 
 ## Benchmark Datasets
 

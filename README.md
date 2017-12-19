@@ -4,13 +4,18 @@
 ## Software
 
 
-| Name          | Language            
-| ------------- |:-------------:      
-| Numenta's [Nupic](https://github.com/numenta/nupic)                      | C++       
-| Etsy's [Skyline](https://github.com/etsy/skyline)                        | Python    
-| Twitter's [AnomalyDetection](https://github.com/twitter/AnomalyDetection)| R         
-| Netflix's [Surus](https://github.com/netflix/surus)                      | Java      
-| Lytics [Anomalyzer](https://github.com/lytics/anomalyzer)                | Go        
+| Name          | Language       | Pitch     
+| ------------- |:-------------: | :-------------:     
+| Numenta's [Nupic](https://github.com/numenta/nupic)                      | C++    |Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM)   
+| Etsy's [Skyline](https://github.com/etsy/skyline)                        | Python |Skyline is a real-time anomaly detection system, built to enable passive monitoring of hundreds of thousands of metrics   
+| Twitter's [AnomalyDetection](https://github.com/twitter/AnomalyDetection)| R      |AnomalyDetection is an open-source R package to detect anomalies which is robust, from a statistical standpoint, in the presence of seasonality and an underlying trend.   
+| Netflix's [Surus](https://github.com/netflix/surus)                      | Java   |Robust Anomaly Detection (RAD) - An implementation of the Robust PCA.   
+| Lytics [Anomalyzer](https://github.com/lytics/anomalyzer)                | Go     | Anomalyzer implements a suite of statistical tests that yield the probability that a given set of numeric input, typically a time series, contains anomalous behavior.    
+| Yahoo's [EGADS](https://github.com/yahoo/egads)                          | Java   |GADS is a library that contains a number of anomaly detection techniques applicable to many use-cases in a single package with the only dependency being Java.    
+| Linkedin's [luminol](https://github.com/linkedin/luminol)                | Python |Luminol is a light weight python library for time series data analysis. The two major functionalities it supports are anomaly detection and correlation. It can be used to investigate possible causes of anomaly.      
+| Ele.me's [banshee](https://github.com/eleme/banshee)                     | Go     |Anomalies detection system for periodic metrics.
+
+
 
 
 ## Benchmark Datasets

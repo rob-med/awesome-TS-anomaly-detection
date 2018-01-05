@@ -1,7 +1,7 @@
 # awesome-TS-anomaly-detection
 > List of tools & datasets for **anomaly detection on _time-series_ data**.
 
-## Software
+## Anomaly Detection Software
 
 
 | Name          | Language       | Pitch     
@@ -15,8 +15,14 @@
 | Linkedin's [luminol](https://github.com/linkedin/luminol)                | Python |Luminol is a light weight python library for time series data analysis. The two major functionalities it supports are anomaly detection and correlation. It can be used to investigate possible causes of anomaly.      
 | Ele.me's [banshee](https://github.com/eleme/banshee)                     | Go     |Anomalies detection system for periodic metrics.
 
+## Related Software
+
+This section includes some time-series software for anomaly detection-related tasks, such as forecasting.
 
 
+| Name          | Language       | Pitch     
+| ------------- |:-------------: | :-------------:   
+| Facebook's [Prophet](https://github.com/facebook/prophet) | Python/R | Prophet is a procedure for forecasting time series data. It is based on an additive model where non-linear trends are fit with yearly and weekly seasonality, plus holidays.
 
 ## Benchmark Datasets
 

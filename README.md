@@ -25,6 +25,8 @@ This section includes some time-series software for anomaly detection-related ta
 | ------------- |:-------------: | :-------------:   
 | Facebook's [Prophet](https://github.com/facebook/prophet) | Python/R | Prophet is a procedure for forecasting time series data. It is based on an additive model where non-linear trends are fit with yearly and weekly seasonality, plus holidays.
 | [PyFlux](https://github.com/RJT1990/pyflux) | Python | The library has a good array of modern time series models, as well as a flexible array of inference options (frequentist and Bayesian) that can be applied to these models.
+| [Pyramid](https://github.com/tgsmith61591/pyramid) | Python | Porting of R's _auto.arima_ with a scikit-learn-friendly interface.
+
 ## Benchmark Datasets
 
 - Numenta's [NAB](https://github.com/numenta/NAB)

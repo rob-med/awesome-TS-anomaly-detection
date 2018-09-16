@@ -36,6 +36,16 @@ This section includes some time-series software for anomaly detection-related ta
 | [seglearn](https://github.com/dmbee/seglearn) | Python | Seglearn is a python package for machine learning time series or sequences. It provides an integrated pipeline for segmentation, feature extraction, feature processing, and final estimator.
 | [Tigramite](https://github.com/jakobrunge/tigramite) | Python | Tigramite is a causal time series analysis python package. It allows to efficiently reconstruct causal graphs from high-dimensional time series datasets and model the obtained causal dependencies for causal mediation and prediction analyses.
 
+## Labeling tools
+
+This section includes labeling tools for manually tagging anomalies and/or outliers on time series data
+
+| Name          | Language       | Pitch     
+| ------------- |:-------------: | :-------------:   
+| [Taganomaly](https://github.com/Microsoft/TagAnomaly) | R (dockerized web app) | Simple tool for tagging time series data. Works for univariate and multivariate data, provides a reference anomaly prediction using Twitter's AnomalyDetection package.
+| [Curve](https://github.com/baidu/Curve) | Python | An Integrated Experimental Platform for time series data anomaly detection. http://curve.baidu.com
+
+
 
 ## Benchmark Datasets
 

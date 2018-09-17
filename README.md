@@ -21,6 +21,16 @@
 | [CAD](https://github.com/smirmik/CAD) | Python | Contextual Anomaly Detection for real-time AD on streagming data (winner algorithm of the 2016 NAB competition).
 
 
+## Labeling tools
+
+This section includes labeling tools for manually tagging anomalies and/or outliers on time series data
+
+| Name          | Language       | Pitch     
+| ------------- |:-------------: | :-------------:   
+| [Taganomaly](https://github.com/Microsoft/TagAnomaly) | R (dockerized web app) | Simple tool for tagging time series data. Works for univariate and multivariate data, provides a reference anomaly prediction using Twitter's AnomalyDetection package.
+| [Curve](https://github.com/baidu/Curve) | Python | An Integrated Experimental Platform for time series data anomaly detection. http://curve.baidu.com
+
+
 ## Related Software
 
 This section includes some time-series software for anomaly detection-related tasks, such as forecasting.

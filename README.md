@@ -28,8 +28,7 @@ A repository is considered "not maintained" if the latest commit is > 1 year old
 | Netflix's [Surus](https://github.com/netflix/surus)                      | Java   |Robust Anomaly Detection (RAD) - An implementation of the Robust PCA.   | Apache-2.0 | ❌ 
 | NASA's [Telemanom](https://github.com/khundman/telemanom)| Python | A framework for using LSTMs to detect anomalies in multivariate time series data. Includes spacecraft anomaly data and experiments from the Mars Science Laboratory and SMAP missions.  | [custom](https://github.com/khundman/telemanom/blob/master/LICENSE.txt) |  :heavy_check_mark:
 | Microsoft Azure [Anomaly Detector](https://azure.microsoft.com/en-us/services/cognitive-services/anomaly-detector/)| API | Easily embed anomaly detection capabilities into your apps so users can quickly identify problems.  |  |  :heavy_check_mark:
-
-
+| [oddstream](https://github.com/pridiltal/oddstream)| R | The goal of oddstream (Outlier Detection in Data Streams) is to propose a framework that provides real time support for early detection of anomalous series within a large collection of streaming time series data. | GPL-3 |  :heavy_check_mark:
 
 ## Related Software
 

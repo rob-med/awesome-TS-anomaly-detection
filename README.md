@@ -16,6 +16,7 @@ A repository is considered "not maintained" if the latest commit is > 1 year old
 | [banpei](https://github.com/tsurubee/banpei)| Python | Outlier detection (Hotelling's theory) and Change point detection (Singular spectrum transformation) for time-series. | MIT | :heavy_check_mark:
 | Ele.me's [banshee](https://github.com/facesea/banshee)                     | Go     |Anomalies detection system for periodic metrics. | MIT | ❌
 | [CAD](https://github.com/smirmik/CAD) | Python | Contextual Anomaly Detection for real-time AD on streagming data (winner algorithm of the 2016 NAB competition). | AGPL | ❌
+| [HASTIC](https://github.com/hastic) | Python + Nodejs | Pythona server and Grafana UI for anomaly detection |
 | Mentat's [datastream.io](https://github.com/MentatInnovations/datastream.io)| Python |An open-source framework for real-time anomaly detection using Python, Elasticsearch and Kibana. | Apache-2.0 |  ❌
 | [DeepADoTS](https://github.com/KDD-OpenSource/DeepADoTS) | Python | Implementation and evaluation of 7 deep learning-based techniques for Anomaly Detection on Time-Series data. | MIT | :heavy_check_mark:
 | [Donut](https://github.com/korepwx/donut)| Python | Donut is an unsupervised anomaly detection algorithm for seasonal KPIs, based on Variational Autoencoders. | - | :heavy_check_mark:

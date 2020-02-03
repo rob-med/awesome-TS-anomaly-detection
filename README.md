@@ -24,12 +24,11 @@ A repository is considered "not maintained" if the latest commit is > 1 year old
 | [MIDAS](https://github.com/bhatiasiddharth/MIDAS) | C++ | MIDAS, short for Microcluster-Based Detector of Anomalies in Edge Streams, detects microcluster anomalies from an edge stream in constant time and memory. | Apache-2.0 | :heavy_check_mark:
 | Numenta's [Nupic](https://github.com/numenta/nupic)                      | C++    |Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM).   | AGPL |  :heavy_check_mark:
 | [oddstream](https://github.com/pridiltal/oddstream)| R | oddstream (Outlier Detection in Data Streams) provides real time support for early detection of anomalous series within a large collection of streaming time series data. | GPL-3 |  :heavy_check_mark:
+| [PyOdds](https://github.com/datamllab/pyodds)| Python | PyODDS is an end-to end Python system for outlier detection with database support. PyODDS provides outlier detection algorithms, which support both static and time-series data.  | MIT |  :heavy_check_mark:
 | [rrcf](https://github.com/kLabUM/rrcf) | Python | Implementation of the Robust Random Cut Forest algorithm for anomaly detection on streams. | MIT |  :heavy_check_mark:
 | Etsy's [Skyline](https://github.com/etsy/skyline)                        | Python |Skyline is a real-time anomaly detection system, built to enable passive monitoring of hundreds of thousands of metrics. | MIT  | ❌ 
 | Netflix's [Surus](https://github.com/netflix/surus)                      | Java   |Robust Anomaly Detection (RAD) - An implementation of the Robust PCA.   | Apache-2.0 | ❌ 
 | NASA's [Telemanom](https://github.com/khundman/telemanom)| Python | A framework for using LSTMs to detect anomalies in multivariate time series data. Includes spacecraft anomaly data and experiments from the Mars Science Laboratory and SMAP missions.  | [custom](https://github.com/khundman/telemanom/blob/master/LICENSE.txt) |  :heavy_check_mark:
-
-
 
 ## Related Software
 

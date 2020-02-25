@@ -27,15 +27,10 @@ A repository is considered "not maintained" if the latest commit is > 1 year old
 | [oddstream](https://github.com/pridiltal/oddstream)| R | oddstream (Outlier Detection in Data Streams) provides real time support for early detection of anomalous series within a large collection of streaming time series data. | GPL-3 |  :heavy_check_mark:
 | [PyOdds](https://github.com/datamllab/pyodds)| Python | PyODDS is an end-to end Python system for outlier detection with database support. PyODDS provides outlier detection algorithms, which support both static and time-series data.  | MIT |  :heavy_check_mark:
 | [rrcf](https://github.com/kLabUM/rrcf) | Python | Implementation of the Robust Random Cut Forest algorithm for anomaly detection on streams. | MIT |  :heavy_check_mark:
-| Etsy's [Skyline](https://github.com/etsy/skyline)                        | Python |Skyline is a real-time anomaly detection system, built to enable passive monitoring of hundreds of thousands of metrics. | MIT  | ❌ 
-| EarthGecko [Skyline](https://github.com/earthgecko/skyline)              | Python3 | Supported Skyline fork for anomaly detection | MIT | :heavy_check_mark:
+| EarthGecko [Skyline](https://github.com/earthgecko/skyline)              | Python3 | Skyline is a real-time anomaly detection system, built to enable passive monitoring of hundreds of thousands of metrics. | MIT | :heavy_check_mark:
 | Netflix's [Surus](https://github.com/netflix/surus)                      | Java   |Robust Anomaly Detection (RAD) - An implementation of the Robust PCA.   | Apache-2.0 | ❌ 
 | NASA's [Telemanom](https://github.com/khundman/telemanom)| Python | A framework for using LSTMs to detect anomalies in multivariate time series data. Includes spacecraft anomaly data and experiments from the Mars Science Laboratory and SMAP missions.  | [custom](https://github.com/khundman/telemanom/blob/master/LICENSE.txt) |  :heavy_check_mark:
 |
-
-## Related articles
-- [Gilab metrics anomaly detection via prometheus](https://about.gitlab.com/blog/2019/07/23/anomaly-detection-using-prometheus/)
-- [Badoo metrics forecasting via Clickhouse](https://github.com/ClickHouse/clickhouse-presentations/blob/master/meetup38/forecast.pdf)
 
 ## Related Software
 

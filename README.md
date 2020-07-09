@@ -30,6 +30,7 @@ A repository is considered "not maintained" if the latest commit is > 1 year old
 | EarthGecko [Skyline](https://github.com/earthgecko/skyline)              | Python3 | Skyline is a real-time anomaly detection system, built to enable passive monitoring of hundreds of thousands of metrics. | MIT | :heavy_check_mark:
 | Netflix's [Surus](https://github.com/netflix/surus)                      | Java   |Robust Anomaly Detection (RAD) - An implementation of the Robust PCA.   | Apache-2.0 | ❌ 
 | NASA's [Telemanom](https://github.com/khundman/telemanom)| Python | A framework for using LSTMs to detect anomalies in multivariate time series data. Includes spacecraft anomaly data and experiments from the Mars Science Laboratory and SMAP missions.  | [custom](https://github.com/khundman/telemanom/blob/master/LICENSE.txt) |  :heavy_check_mark:
+| [PyOD](https://pyod.readthedocs.io/en/latest/)| Python | PyOD is a comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. | BSD 2-Clause |  :heavy_check_mark:
 
 ## Related Software
 

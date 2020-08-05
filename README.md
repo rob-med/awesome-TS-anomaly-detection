@@ -4,6 +4,13 @@
 All lists are in alphabetical order. 
 A repository is considered "not maintained" if the latest commit is > 1 year old, or explicitly mentioned by the authors.
 
+## Citation Policy
+
+If you would like to cite this repository, please use the following DOI: 
+
+[![DOI](https://zenodo.org/badge/114778979.svg)](https://zenodo.org/badge/latestdoi/114778979)
+
+
 ## Anomaly Detection Software
 
 

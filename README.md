@@ -10,6 +10,17 @@ If you would like to cite this repository, please use the following DOI:
 
 [![DOI](https://zenodo.org/badge/114778979.svg)](https://zenodo.org/badge/latestdoi/114778979)
 
+or use this BibTex
+
+```
+ @article{roberto medico_2020, 
+          title={rob-med/awesome-TS-anomaly-detection}, 
+          DOI={10.5281/zenodo.3972944}, 
+          abstractNote={A collection of tools and datasets for anomaly detection on time-series data.}, 
+          publisher={Zenodo}, author={Roberto Medico}, year={2020}, month={Aug}}
+```
+
+
 
 ## Anomaly Detection Software
 

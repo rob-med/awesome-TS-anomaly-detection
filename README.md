@@ -4,24 +4,6 @@
 All lists are in alphabetical order. 
 A repository is considered "not maintained" if the latest commit is > 1 year old, or explicitly mentioned by the authors.
 
-## Citation Policy
-
-If you would like to cite this repository, please use the following DOI: 
-
-[![DOI](https://zenodo.org/badge/114778979.svg)](https://zenodo.org/badge/latestdoi/114778979)
-
-or use this BibTex
-
-```
- @article{roberto medico_2020, 
-          title={rob-med/awesome-TS-anomaly-detection}, 
-          DOI={10.5281/zenodo.3972944}, 
-          abstractNote={A collection of tools and datasets for anomaly detection on time-series data.}, 
-          publisher={Zenodo}, author={Roberto Medico}, year={2020}, month={Aug}}
-```
-
-
-
 ## Anomaly Detection Software
 
 
@@ -80,3 +62,19 @@ This section includes some time-series software for anomaly detection-related ta
 > NAB is a novel benchmark for evaluating algorithms for anomaly detection in streaming, real-time applications. It is comprised of over 50 labeled real-world and artificial timeseries data files plus a novel scoring mechanism designed for real-time applications.
 - Yahoo's [Webscope S5](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
 > The dataset consists of real and synthetic time-series with tagged anomaly points. The dataset tests the detection accuracy of various anomaly-types including outliers and change-points. 
+
+## Citation Policy
+
+If you would like to cite this repository, please use the following DOI: 
+
+[![DOI](https://zenodo.org/badge/114778979.svg)](https://zenodo.org/badge/latestdoi/114778979)
+
+or use this BibTex
+
+```
+ @article{medico2020, 
+          title={rob-med/awesome-TS-anomaly-detection}, 
+          DOI={10.5281/zenodo.3972944}, 
+          abstractNote={A collection of tools and datasets for anomaly detection on time-series data.}, 
+          publisher={Zenodo}, author={Roberto Medico}, year={2020}, month={Aug}}
+```

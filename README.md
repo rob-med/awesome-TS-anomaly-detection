@@ -65,6 +65,34 @@ This section includes some time-series software for anomaly detection-related ta
 > NAB is a novel benchmark for evaluating algorithms for anomaly detection in streaming, real-time applications. It is comprised of over 50 labeled real-world and artificial timeseries data files plus a novel scoring mechanism designed for real-time applications.
 - Yahoo's [Webscope S5](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
 > The dataset consists of real and synthetic time-series with tagged anomaly points. The dataset tests the detection accuracy of various anomaly-types including outliers and change-points. 
+- 2018 AIOps's [KPI-Anomaly-Detection](https://github.com/NetManAIOps/KPI-Anomaly-Detection)
+> The dataset consists of KPIs (key performace index) time series data from many real scenarios of Internet companies with ground truth label. Click below for a more detailed description.
+
+<details>
+  <summary>Details</summary>
+  
+  The dataset consists of KPI (key performace index) time series data from many real scenarios of Internet companies with ground truth label. KPIs fall into two broad categories: service KPIs and machine KPIs. Service KPIs are performance metrics that reflect the size and quality of a Web service, such as page response time, page views, and number of connection errors. Machine KPIs are performance indicators that reflect the health of the machine (server, router, switch), such as CPU utilization, memory utilization, disk IO, network card throughput, etc.
+
+Dataset Descriptions:
+
+In order to train the anomaly detection algorithm, the training KPI data provided by us is shown in table 1, including four columns: KPI ID, timestamp, the value of the KPI at that time, and whether the time is abnormal (label).
+
+ Table 1 training KPI data case
+ | KPI ID | Timestamp  | Value | Label |
+ | ------ | ---------- | ----- | ----- |
+ | 0      | 1503831000 | 10.8  | 0     |
+ | 0      | 1503831060 | 12.3  | 1     |
+ | ...    | ...        | ...   | ...   |
+
+ In order to evaluate the anomaly detection algorithm, the test KPI data provided by us is shown in table 2, including two columns: KPI ID, timestamp, and the value corresponding to the KPI at that time.
+
+ Table 2 testing KPI data case
+ | KPI ID | Timestamp  | Value |
+ | ------ | ---------- | ----- |
+ | 0      | 1503831000 | 10.8  |
+ | 0      | 1503831060 | 12.3  |
+ | ...    | ...        | ...   |
+</details>
 
 ## Citation Policy
 

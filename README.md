@@ -30,6 +30,7 @@ A repository is considered "not maintained" if the latest commit is > 1 year old
 | [PyOdds](https://github.com/datamllab/pyodds)| Python | PyODDS is an end-to end Python system for outlier detection with database support. PyODDS provides outlier detection algorithms, which support both static and time-series data.  | MIT |  :heavy_check_mark:
 | [PySAD](https://github.com/selimfirat/pysad)| Python | PySAD is a streaming anomaly detection framework with various online models and complete set of tools for experimentation. | BSD 3-Clause |  :heavy_check_mark:
 | [rrcf](https://github.com/kLabUM/rrcf) | Python | Implementation of the Robust Random Cut Forest algorithm for anomaly detection on streams. | MIT |  :heavy_check_mark:
+| [ruptures](https://github.com/deepcharles/ruptures/) | Python | Ruptures is a Python library for off-line change point detection. This package provides methods for the analysis and segmentation of non-stationary signals. | BSD 2-Clause |  :heavy_check_mark:
 | EarthGecko [Skyline](https://github.com/earthgecko/skyline)              | Python3 | Skyline is a real-time anomaly detection system, built to enable passive monitoring of hundreds of thousands of metrics. | MIT | :heavy_check_mark:
 | Netflix's [Surus](https://github.com/netflix/surus)                      | Java   |Robust Anomaly Detection (RAD) - An implementation of the Robust PCA.   | Apache-2.0 | ❌ 
 | NASA's [Telemanom](https://github.com/khundman/telemanom)| Python | A framework for using LSTMs to detect anomalies in multivariate time series data. Includes spacecraft anomaly data and experiments from the Mars Science Laboratory and SMAP missions.  | [custom](https://github.com/khundman/telemanom/blob/master/LICENSE.txt) |  :heavy_check_mark:
@@ -65,6 +66,8 @@ This section includes some time-series software for anomaly detection-related ta
 > NAB is a novel benchmark for evaluating algorithms for anomaly detection in streaming, real-time applications. It is comprised of over 50 labeled real-world and artificial timeseries data files plus a novel scoring mechanism designed for real-time applications.
 - Yahoo's [Webscope S5](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
 > The dataset consists of real and synthetic time-series with tagged anomaly points. The dataset tests the detection accuracy of various anomaly-types including outliers and change-points. 
+- 2020 Skoltech's [SKAB](https://github.com/waico/SkAB)
+> SKAB (Skoltech Anomaly Benchmark) is designed for evaluating algorithms for anomaly detection. The benchmark currently includes 30+ datasets plus Python modules for algorithms’ evaluation. Each dataset represents a multivariate time series collected from the sensors installed on the testbed. All instances are labeled for evaluating the results of solving outlier detection and changepoint detection problems.
 - 2018 AIOps's [KPI-Anomaly-Detection](https://github.com/NetManAIOps/KPI-Anomaly-Detection)
 > The dataset consists of KPIs (key performace index) time series data from many real scenarios of Internet companies with ground truth label. Click below for a more detailed description.
 

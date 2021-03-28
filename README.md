@@ -4,6 +4,8 @@
 All lists are in alphabetical order. 
 A repository is considered "not maintained" if the latest commit is > 1 year old, or explicitly mentioned by the authors.
 
+🎓 If you found this collection useful and want to cite it, please follow the [citation policy](#citation-policy).
+
 ## Anomaly Detection Software
 
 
@@ -38,7 +40,7 @@ A repository is considered "not maintained" if the latest commit is > 1 year old
 
 ## Related Software
 
-This section includes some time-series software for anomaly detection-related tasks, such as forecasting and labeling.
+This section includes some time-series software for anomaly detection-related tasks, such as forecasting, generic TS analysis and labeling.
 
 ### Forecasting
 
@@ -49,6 +51,12 @@ This section includes some time-series software for anomaly detection-related ta
 | [pmdarima](https://github.com/tgsmith61591/pyramid) | Python | Porting of R's _auto.arima_ with a scikit-learn-friendly interface. | MIT | :heavy_check_mark:
 | Facebook's [Prophet](https://github.com/facebook/prophet) | Python/R | Prophet is a procedure for forecasting time series data. It is based on an additive model where non-linear trends are fit with yearly and weekly seasonality, plus holidays. | BSD |  :heavy_check_mark:
 | [PyFlux](https://github.com/RJT1990/pyflux) | Python | The library has a good array of modern time series models, as well as a flexible array of inference options (frequentist and Bayesian) that can be applied to these models. | BSD 3-Clause | ❌
+
+### Time-Series Analysis
+
+| Name          | Language       | Pitch     | License  | Maintained
+| ------------- |:-------------: | :-------------: |  :-------------: |  :-------------: 
+| [MatrixProfile](https://github.com/matrix-profile-foundation/matrixprofile) | Python |  A Python 3 library making time series data mining tasks, utilizing matrix profile algorithms, accessible to everyone. | Apache-2.0 | :heavy_check_mark:
 | [SaxPy](https://github.com/seninp/saxpy) | Python | General implementation of SAX, as well as HOTSAX for anomaly detection. | GPLv2.0 | :heavy_check_mark:
 | [seglearn](https://github.com/dmbee/seglearn) | Python | Seglearn is a python package for machine learning time series or sequences. It provides an integrated pipeline for segmentation, feature extraction, feature processing, and final estimator. | BSD 3-Clause | :heavy_check_mark:
 | [sktime](https://github.com/alan-turing-institute/sktime) | Python | A unified framework for machine learning with time series. It provides specialized time series algorithms and scikit-learn compatible tools to build, tune and validate time series models for multiple learning problems. | BSD 3-Clause | :heavy_check_mark:

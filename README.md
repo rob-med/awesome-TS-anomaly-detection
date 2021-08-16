@@ -55,7 +55,8 @@ This section includes some time-series software for anomaly detection-related ta
 ### Time-Series Analysis
 
 | Name          | Language       | Pitch     | License  | Maintained
-| ------------- |:-------------: | :-------------: |  :-------------: |  :-------------: 
+| ------------- |:-------------: | :-------------: |  :-------------: |  :-------------:
+| Facebook's [Kats](https://github.com/facebookresearch/Kats/)| Python | Kats aims to provide the one-stop shop for time series analysis, including detection, forecasting, feature extraction/embedding, multivariate analysis, etc.  | MIT |  :heavy_check_mark:
 | [MatrixProfile](https://github.com/matrix-profile-foundation/matrixprofile) | Python |  A Python 3 library making time series data mining tasks, utilizing matrix profile algorithms, accessible to everyone. | Apache-2.0 | :heavy_check_mark:
 | [SaxPy](https://github.com/seninp/saxpy) | Python | General implementation of SAX, as well as HOTSAX for anomaly detection. | GPLv2.0 | :heavy_check_mark:
 | [seglearn](https://github.com/dmbee/seglearn) | Python | Seglearn is a python package for machine learning time series or sequences. It provides an integrated pipeline for segmentation, feature extraction, feature processing, and final estimator. | BSD 3-Clause | :heavy_check_mark:

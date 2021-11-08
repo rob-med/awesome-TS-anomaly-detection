@@ -64,7 +64,7 @@ This section includes some time-series software for anomaly detection-related ta
 | [sktime-dl](https://github.com/sktime/sktime-dl) | Python | An extension package for deep learning with Tensorflow/Keras for *sktime*. | BSD 3-Clause | ❌
 | [Tigramite](https://github.com/jakobrunge/tigramite) | Python | Tigramite is a causal time series analysis python package. It allows to efficiently reconstruct causal graphs from high-dimensional time series datasets and model the obtained causal dependencies for causal mediation and prediction analyses.| GPLv3.0 | :heavy_check_mark:
 | [tslearn](https://github.com/rtavenar/tslearn) | Python | tslearn is a Python package that provides machine learning tools for the analysis of time series. This package builds on scikit-learn, numpy and scipy libraries. | BSD 2-Clause | :heavy_check_mark:
-| [Merlion](https://github.com/salesforce/Merlion) | Python | | BSD 3-Clause | Merlion: A Machine Learning Framework for Time Series Intelligence, support multiple models include ARIMA
+| [Merlion](https://github.com/salesforce/Merlion) | Python | Merlion: A Machine Learning Framework for Time Series Intelligence, support multiple models include ARIMA | BSD 3-Clause | :heavy_check_mark:
 
 ### Labeling
 

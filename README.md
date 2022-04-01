@@ -18,6 +18,7 @@ A repository is considered "not maintained" if the latest commit is > 1 year old
 | [banpei](https://github.com/tsurubee/banpei)| Python | Outlier detection (Hotelling's theory) and Change point detection (Singular spectrum transformation) for time-series. | MIT | :heavy_check_mark:
 | Ele.me's [banshee](https://github.com/facesea/banshee)                     | Go     |Anomalies detection system for periodic metrics. | MIT | ❌
 | [CAD](https://github.com/smirmik/CAD) | Python | Contextual Anomaly Detection for real-time AD on streagming data (winner algorithm of the 2016 NAB competition). | AGPL | ❌
+| Cuebook's [CueObserve](https://github.com/cuebook/CueObserve)| Python3 | Anomaly detection on SQL data warehouses and databases. | Apache-2.0 |  :heavy_check_mark:
 | Mentat's [datastream.io](https://github.com/MentatInnovations/datastream.io)| Python |An open-source framework for real-time anomaly detection using Python, Elasticsearch and Kibana. | Apache-2.0 |  ❌
 | [DeepADoTS](https://github.com/KDD-OpenSource/DeepADoTS) | Python | Implementation and evaluation of 7 deep learning-based techniques for Anomaly Detection on Time-Series data. | MIT | :heavy_check_mark:
 | [Donut](https://github.com/korepwx/donut)| Python | Donut is an unsupervised anomaly detection algorithm for seasonal KPIs, based on Variational Autoencoders. | - | :heavy_check_mark:
@@ -38,6 +39,7 @@ A repository is considered "not maintained" if the latest commit is > 1 year old
 | EarthGecko [Skyline](https://github.com/earthgecko/skyline)              | Python3 | Skyline is a real-time anomaly detection system, built to enable passive monitoring of hundreds of thousands of metrics. | MIT | :heavy_check_mark:
 | Netflix's [Surus](https://github.com/netflix/surus)                      | Java   |Robust Anomaly Detection (RAD) - An implementation of the Robust PCA.   | Apache-2.0 | ❌ 
 | NASA's [Telemanom](https://github.com/khundman/telemanom)| Python | A framework for using LSTMs to detect anomalies in multivariate time series data. Includes spacecraft anomaly data and experiments from the Mars Science Laboratory and SMAP missions.  | [custom](https://github.com/khundman/telemanom/blob/master/LICENSE.txt) |  :heavy_check_mark:
+| Zillow's [Luminaire](https://github.com/zillow/luminaire)| Python | Luminaire is a python package that provides ML driven anomaly detection and forecasting solutions for time series data.  | Apache-2.0 |  :heavy_check_mark:
 
 ## Related Software
 

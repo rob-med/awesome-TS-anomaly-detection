@@ -1,7 +1,7 @@
 # awesome-TS-anomaly-detection
 > List of tools & datasets for **anomaly detection on _time-series_ data**.
 
-All lists are in alphabetical order. 
+All lists are in alphabetical order. In the lists, maintaned projects are prioritized vs not mantained. 
 A repository is considered "not maintained" if the latest commit is > 1 year old, or explicitly mentioned by the authors.
 
 🎓 If you found this collection useful and want to cite it, please follow the [citation policy](#citation-policy).
@@ -11,6 +11,18 @@ A repository is considered "not maintained" if the latest commit is > 1 year old
 
 | Name          | Language       | Pitch     | License | Maintained
 | ------------- |:-------------: | :-------------: |  :-------------:  |  :-------------:     
+| [Chaos Genius](https://github.com/chaos-genius/chaos_genius)| Python | ML powered analytics engine for outlier/anomaly detection and root cause analysis.  | MIT |  :heavy_check_mark:
+| Cuebook's [CueObserve](https://github.com/cuebook/CueObserve)| Python3 | Anomaly detection on SQL data warehouses and databases. | Apache-2.0 |  :heavy_check_mark:
+| Yahoo's [EGADS](https://github.com/yahoo/egads)                          | Java   |GADS is a library that contains a number of anomaly detection techniques applicable to many use-cases in a single package with the only dependency being Java.    | GPL | :heavy_check_mark:
+| AIStream's [flow-forecast](https://github.com/AIStream-Peelout/flow-forecast)                          | Python   |  Deep learning PyTorch library for time series forecasting, classification, and anomaly detection (originally for flood forecasting).  | GPL-3 | :heavy_check_mark:
+| [Hastic](https://github.com/hastic/hastic) | Python + node.js | Anomaly detection tool for time series data with Grafana-based UI.| GPL | :heavy_check_mark:
+| Zillow's [Luminaire](https://github.com/zillow/luminaire)| Python | Luminaire is a python package that provides ML driven anomaly detection and forecasting solutions for time series data.  | Apache-2.0 |  :heavy_check_mark:
+| [MIDAS](https://github.com/bhatiasiddharth/MIDAS) | C++ | MIDAS, short for Microcluster-Based Detector of Anomalies in Edge Streams, detects microcluster anomalies from an edge stream in constant time and memory. | Apache-2.0 | :heavy_check_mark:
+| [Orion](https://github.com/sintel-dev/Orion)| Python | Orion is a machine learning library built for unsupervised time series anomaly detection, providing a number of “verified” ML pipelines (a.k.a Orion pipelines) that identify rare patterns and flag them for expert review. | MIT | :heavy_check_mark:
+| [OutlierDetection.jl](https://github.com/OutlierDetectionJL/OutlierDetection.jl)| Julia | Fast, scalable and flexible Outlier Detection with Julia. | MIT | :heavy_check_mark:
+| [PyOD](https://github.com/yzhao062/pyod)| Python | PyOD is a comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. | BSD 2-Clause |  :heavy_check_mark:
+| [ruptures](https://github.com/deepcharles/ruptures/) | Python | Ruptures is a Python library for off-line change point detection. This package provides methods for the analysis and segmentation of non-stationary signals. | BSD 2-Clause |  :heavy_check_mark:
+| EarthGecko [Skyline](https://github.com/earthgecko/skyline)              | Python3 | Skyline is a real-time anomaly detection system, built to enable passive monitoring of hundreds of thousands of metrics. | MIT | :heavy_check_mark:
 | Expedia.com's [Adaptive Alerting](https://github.com/ExpediaDotCom/adaptive-alerting) | Java | Streaming anomaly detection with automated model selection and fitting. | Apache-2.0 | ❌
 | Arundo's [ADTK](https://github.com/arundo/adtk) | Python | Anomaly Detection Toolkit (ADTK) is a Python package for unsupervised / rule-based time series anomaly detection. | MPL 2.0 | ❌
 | Twitter's [AnomalyDetection](https://github.com/twitter/AnomalyDetection)| R      |AnomalyDetection is an open-source R package to detect anomalies which is robust, from a statistical standpoint, in the presence of seasonality and an underlying trend.   | GPL | ❌
@@ -18,28 +30,16 @@ A repository is considered "not maintained" if the latest commit is > 1 year old
 | [banpei](https://github.com/tsurubee/banpei)| Python | Outlier detection (Hotelling's theory) and Change point detection (Singular spectrum transformation) for time-series. | MIT | ❌
 | Ele.me's [banshee](https://github.com/facesea/banshee)                     | Go     |Anomalies detection system for periodic metrics. | MIT | ❌
 | [CAD](https://github.com/smirmik/CAD) | Python | Contextual Anomaly Detection for real-time AD on streagming data (winner algorithm of the 2016 NAB competition). | AGPL | ❌
-| [Chaos Genius](https://github.com/chaos-genius/chaos_genius)| Python | ML powered analytics engine for outlier/anomaly detection and root cause analysis.  | MIT |  :heavy_check_mark:
-| Cuebook's [CueObserve](https://github.com/cuebook/CueObserve)| Python3 | Anomaly detection on SQL data warehouses and databases. | Apache-2.0 |  :heavy_check_mark:
 | Mentat's [datastream.io](https://github.com/MentatInnovations/datastream.io)| Python |An open-source framework for real-time anomaly detection using Python, Elasticsearch and Kibana. | Apache-2.0 |  ❌
 | [DeepADoTS](https://github.com/KDD-OpenSource/DeepADoTS) | Python | Implementation and evaluation of 7 deep learning-based techniques for Anomaly Detection on Time-Series data. | MIT | ❌
 | [Donut](https://github.com/korepwx/donut)| Python | Donut is an unsupervised anomaly detection algorithm for seasonal KPIs, based on Variational Autoencoders. | - | ❌
-| Yahoo's [EGADS](https://github.com/yahoo/egads)                          | Java   |GADS is a library that contains a number of anomaly detection techniques applicable to many use-cases in a single package with the only dependency being Java.    | GPL | :heavy_check_mark:
-| AIStream's [flow-forecast](https://github.com/AIStream-Peelout/flow-forecast)                          | Python   |  Deep learning PyTorch library for time series forecasting, classification, and anomaly detection (originally for flood forecasting).  | GPL-3 | :heavy_check_mark:
-| [Hastic](https://github.com/hastic/hastic) | Python + node.js | Anomaly detection tool for time series data with Grafana-based UI.| GPL | :heavy_check_mark:
 | [LoudML](https://github.com/regel/loudml)| Python | Loud ML is an open source time series inference engine built on top of TensorFlow. It's useful to forecast data, detect outliers, and automate your process using future knowledge.  | MIT |  ❌
-| Zillow's [Luminaire](https://github.com/zillow/luminaire)| Python | Luminaire is a python package that provides ML driven anomaly detection and forecasting solutions for time series data.  | Apache-2.0 |  :heavy_check_mark:
 | Linkedin's [luminol](https://github.com/linkedin/luminol)                | Python |Luminol is a light weight python library for time series data analysis. The two major functionalities it supports are anomaly detection and correlation. It can be used to investigate possible causes of anomaly. | Apache-2.0  | ❌ 
-| [MIDAS](https://github.com/bhatiasiddharth/MIDAS) | C++ | MIDAS, short for Microcluster-Based Detector of Anomalies in Edge Streams, detects microcluster anomalies from an edge stream in constant time and memory. | Apache-2.0 | :heavy_check_mark:
 | Numenta's [Nupic](https://github.com/numenta/nupic)                      | C++    |Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM).   | AGPL |  ❌
 | [oddstream](https://github.com/pridiltal/oddstream)| R | oddstream (Outlier Detection in Data Streams) provides real time support for early detection of anomalous series within a large collection of streaming time series data. | GPL-3 |  ❌
-| [Orion](https://github.com/sintel-dev/Orion)| Python | Orion is a machine learning library built for unsupervised time series anomaly detection, providing a number of “verified” ML pipelines (a.k.a Orion pipelines) that identify rare patterns and flag them for expert review. | MIT | :heavy_check_mark:
-| [OutlierDetection.jl](https://github.com/OutlierDetectionJL/OutlierDetection.jl)| Julia | Fast, scalable and flexible Outlier Detection with Julia. | MIT | :heavy_check_mark:
-| [PyOD](https://github.com/yzhao062/pyod)| Python | PyOD is a comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. | BSD 2-Clause |  :heavy_check_mark:
 | [PyOdds](https://github.com/datamllab/pyodds)| Python | PyODDS is an end-to end Python system for outlier detection with database support. PyODDS provides outlier detection algorithms, which support both static and time-series data.  | MIT |  ❌
 | [PySAD](https://github.com/selimfirat/pysad)| Python | PySAD is a streaming anomaly detection framework with various online models and complete set of tools for experimentation. | BSD 3-Clause |  ❌
 | [rrcf](https://github.com/kLabUM/rrcf) | Python | Implementation of the Robust Random Cut Forest algorithm for anomaly detection on streams. | MIT | ❌
-| [ruptures](https://github.com/deepcharles/ruptures/) | Python | Ruptures is a Python library for off-line change point detection. This package provides methods for the analysis and segmentation of non-stationary signals. | BSD 2-Clause |  :heavy_check_mark:
-| EarthGecko [Skyline](https://github.com/earthgecko/skyline)              | Python3 | Skyline is a real-time anomaly detection system, built to enable passive monitoring of hundreds of thousands of metrics. | MIT | :heavy_check_mark:
 | Netflix's [Surus](https://github.com/netflix/surus)                      | Java   |Robust Anomaly Detection (RAD) - An implementation of the Robust PCA.   | Apache-2.0 | ❌ 
 | NASA's [Telemanom](https://github.com/khundman/telemanom)| Python | A framework for using LSTMs to detect anomalies in multivariate time series data. Includes spacecraft anomaly data and experiments from the Mars Science Laboratory and SMAP missions.  | [custom](https://github.com/khundman/telemanom/blob/master/LICENSE.txt) |  ❌
 
@@ -66,12 +66,12 @@ This section includes some time-series software for anomaly detection-related ta
 | [MatrixProfile](https://github.com/matrix-profile-foundation/matrixprofile) | Python |  A Python 3 library making time series data mining tasks, utilizing matrix profile algorithms, accessible to everyone. | Apache-2.0 | :heavy_check_mark:
 | Salesforce's [Merlion](https://github.com/salesforce/Merlion) | Python | Merlion: A Machine Learning Framework for Time Series Intelligence, support multiple models including ARIMA | BSD 3-Clause | :heavy_check_mark:
 | [SaxPy](https://github.com/seninp/saxpy) | Python | General implementation of SAX, as well as HOTSAX for anomaly detection. | GPLv2.0 | :heavy_check_mark:
-| [seglearn](https://github.com/dmbee/seglearn) | Python | Seglearn is a python package for machine learning time series or sequences. It provides an integrated pipeline for segmentation, feature extraction, feature processing, and final estimator. | BSD 3-Clause | ❌
 | [sktime](https://github.com/alan-turing-institute/sktime) | Python | A unified framework for machine learning with time series. It provides specialized time series algorithms and scikit-learn compatible tools to build, tune and validate time series models for multiple learning problems. | BSD 3-Clause | :heavy_check_mark:
 | [sktime-dl](https://github.com/sktime/sktime-dl) | Python | An extension package for deep learning with Tensorflow/Keras for *sktime*. | BSD 3-Clause | :heavy_check_mark:
 | [Tigramite](https://github.com/jakobrunge/tigramite) | Python | Tigramite is a causal time series analysis python package. It allows to efficiently reconstruct causal graphs from high-dimensional time series datasets and model the obtained causal dependencies for causal mediation and prediction analyses.| GPLv3.0 | :heavy_check_mark:
 | [tsflex](https://github.com/predict-idlab/tsflex) | Python | tsflex is a time series toolkit for feature extraction & processing that is both flexible and efficient. This package supports strided-window feature extraction on multivariate, irregularly-sampled sequence data. | MIT | :heavy_check_mark:
 | [tslearn](https://github.com/tslearn-team/tslearn) | Python | tslearn is a Python package that provides machine learning tools for the analysis of time series. This package builds on scikit-learn, numpy and scipy libraries. | BSD 2-Clause | :heavy_check_mark:
+| [seglearn](https://github.com/dmbee/seglearn) | Python | Seglearn is a python package for machine learning time series or sequences. It provides an integrated pipeline for segmentation, feature extraction, feature processing, and final estimator. | BSD 3-Clause | ❌
 
 ### Labeling
 

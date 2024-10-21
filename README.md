@@ -11,7 +11,6 @@ A repository is considered "not maintained" if the latest commit is > 1 year old
 
 | Name          | Language       | Pitch     | License | Maintained
 | ------------- |:-------------: | :-------------: |  :-------------:  |  :-------------:     
-| [Chaos Genius](https://github.com/chaos-genius/chaos_genius)| Python | ML powered analytics engine for outlier/anomaly detection and root cause analysis.  | MIT |  :heavy_check_mark:
 | Cuebook's [CueObserve](https://github.com/cuebook/CueObserve)| Python3 | Anomaly detection on SQL data warehouses and databases. | Apache-2.0 |  :heavy_check_mark:
 | Yahoo's [EGADS](https://github.com/yahoo/egads)                          | Java   |GADS is a library that contains a number of anomaly detection techniques applicable to many use-cases in a single package with the only dependency being Java.    | GPL | :heavy_check_mark:
 | AIStream's [flow-forecast](https://github.com/AIStream-Peelout/flow-forecast)                          | Python   |  Deep learning PyTorch library for time series forecasting, classification, and anomaly detection (originally for flood forecasting).  | GPL-3 | :heavy_check_mark:
@@ -30,6 +29,7 @@ A repository is considered "not maintained" if the latest commit is > 1 year old
 | [banpei](https://github.com/tsurubee/banpei)| Python | Outlier detection (Hotelling's theory) and Change point detection (Singular spectrum transformation) for time-series. | MIT | ❌
 | Ele.me's [banshee](https://github.com/facesea/banshee)                     | Go     |Anomalies detection system for periodic metrics. | MIT | ❌
 | [CAD](https://github.com/smirmik/CAD) | Python | Contextual Anomaly Detection for real-time AD on streagming data (winner algorithm of the 2016 NAB competition). | AGPL | ❌
+| [Chaos Genius](https://github.com/chaos-genius/chaos_genius)| Python | ML powered analytics engine for outlier/anomaly detection and root cause analysis.  | MIT |  ❌
 | Mentat's [datastream.io](https://github.com/MentatInnovations/datastream.io)| Python |An open-source framework for real-time anomaly detection using Python, Elasticsearch and Kibana. | Apache-2.0 |  ❌
 | [DeepADoTS](https://github.com/KDD-OpenSource/DeepADoTS) | Python | Implementation and evaluation of 7 deep learning-based techniques for Anomaly Detection on Time-Series data. | MIT | ❌
 | [Donut](https://github.com/korepwx/donut)| Python | Donut is an unsupervised anomaly detection algorithm for seasonal KPIs, based on Variational Autoencoders. | - | ❌

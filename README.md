@@ -11,6 +11,7 @@ A repository is considered "not maintained" if the latest commit is > 1 year old
 
 | Name          | Language       | Pitch     | License | Maintained
 | ------------- |:-------------: | :-------------: |  :-------------:  |  :-------------:     
+| [Anomstack](https://github.com/andrewm4894/anomstack)| Python3 | Anomstack - Painless open source anomaly detection for your metrics 📈📉🚀 | MIT |  :heavy_check_mark:
 | Cuebook's [CueObserve](https://github.com/cuebook/CueObserve)| Python3 | Anomaly detection on SQL data warehouses and databases. | Apache-2.0 |  :heavy_check_mark:
 | Yahoo's [EGADS](https://github.com/yahoo/egads)                          | Java   |GADS is a library that contains a number of anomaly detection techniques applicable to many use-cases in a single package with the only dependency being Java.    | GPL | :heavy_check_mark:
 | AIStream's [flow-forecast](https://github.com/AIStream-Peelout/flow-forecast)                          | Python   |  Deep learning PyTorch library for time series forecasting, classification, and anomaly detection (originally for flood forecasting).  | GPL-3 | :heavy_check_mark:

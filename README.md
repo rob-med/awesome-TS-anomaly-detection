@@ -42,6 +42,7 @@ A repository is considered "not maintained" if the latest commit is > 1 year old
 | [rrcf](https://github.com/kLabUM/rrcf) | Python | Implementation of the Robust Random Cut Forest algorithm for anomaly detection on streams. | MIT | ❌
 | Netflix's [Surus](https://github.com/netflix/surus)                      | Java   |Robust Anomaly Detection (RAD) - An implementation of the Robust PCA.   | Apache-2.0 | ❌ 
 | NASA's [Telemanom](https://github.com/khundman/telemanom)| Python | A framework for using LSTMs to detect anomalies in multivariate time series data. Includes spacecraft anomaly data and experiments from the Mars Science Laboratory and SMAP missions.  | [custom](https://github.com/khundman/telemanom/blob/master/LICENSE.txt) |  ❌
+| tatopenn-cell's [Dense-Armor](https://github.com/tatopenn-cell/Dense-Armor) | Python3 | Online drift and anomaly detection on sensor, robot and AI streams: CUSUM, robust filters and streaming detectors, one sample at a time. | BUSL-1.1 | :heavy_check_mark:
 
 ## Related Software
 
